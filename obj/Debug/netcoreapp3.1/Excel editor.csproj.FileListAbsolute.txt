@@ -1,0 +1,13 @@
+C:\Users\Khaled\source\repos\Excel editor\bin\Debug\netcoreapp3.1\Excel editor.exe
+C:\Users\Khaled\source\repos\Excel editor\bin\Debug\netcoreapp3.1\Excel editor.deps.json
+C:\Users\Khaled\source\repos\Excel editor\bin\Debug\netcoreapp3.1\Excel editor.runtimeconfig.json
+C:\Users\Khaled\source\repos\Excel editor\bin\Debug\netcoreapp3.1\Excel editor.runtimeconfig.dev.json
+C:\Users\Khaled\source\repos\Excel editor\bin\Debug\netcoreapp3.1\Excel editor.dll
+C:\Users\Khaled\source\repos\Excel editor\bin\Debug\netcoreapp3.1\Excel editor.pdb
+C:\Users\Khaled\source\repos\Excel editor\obj\Debug\netcoreapp3.1\Excel editor.csprojAssemblyReference.cache
+C:\Users\Khaled\source\repos\Excel editor\obj\Debug\netcoreapp3.1\Excel editor.AssemblyInfoInputs.cache
+C:\Users\Khaled\source\repos\Excel editor\obj\Debug\netcoreapp3.1\Excel editor.AssemblyInfo.cs
+C:\Users\Khaled\source\repos\Excel editor\obj\Debug\netcoreapp3.1\Excel editor.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\repos\Excel editor\obj\Debug\netcoreapp3.1\Excel editor.dll
+C:\Users\Khaled\source\repos\Excel editor\obj\Debug\netcoreapp3.1\Excel editor.pdb
+C:\Users\Khaled\source\repos\Excel editor\obj\Debug\netcoreapp3.1\Excel editor.genruntimeconfig.cache
